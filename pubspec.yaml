@@ -11,9 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
     
-  qrcode_forked: 
+  c: 
      git:
-      url: https://github.com/chubzchoc/flutter_beep
+      url: https://github.com/chubzchoc/qrcode_forked
       ref: master 
   torch_controller: ^2.0.1
   flutter_beep:
