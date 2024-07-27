@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
     
-  c: 
+  qrcode_forked: 
      git:
       url: https://github.com/chubzchoc/qrcode_forked
       ref: master 
